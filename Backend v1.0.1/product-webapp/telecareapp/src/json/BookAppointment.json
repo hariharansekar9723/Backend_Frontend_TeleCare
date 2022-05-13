@@ -1,0 +1,48 @@
+{
+    "Book_appointment": [
+        {
+            "appointmentId": 1,
+            "patientEmail": "chrwin@me.com",
+            "doctorEmail": "Agarwal.Anil@gmail.com",
+            "patientIssue": "Shortness of breath",
+            "slotId": "100",
+            "appointmentDate": "12/04/2022",
+            "appointmentStartTime": "10:00 AM",
+            "appointmentEndTime": "11:00 AM",
+            "appointmentStatus": "true"
+        },
+        {
+            "appointmentId": 2,
+            "patientEmail": "Smagusnet@msn.com",
+            "doctorEmail": "Agarwal.Biplav@gmail.com",
+            "patientIssue": "Chest pain",
+            "slotId": "101",
+            "appointmentDate": "13/04/2022",
+            "appointmentStartTime": "09:00 Am",
+            "appointmentEndTime": "10:00 PM",
+            "appointmentStatus": "true"
+        },
+        {
+            "appointmentId": 3,
+            "patientEmail": "lukka@gmail.com",
+            "doctorEmail": "Balhara.Sonu@gmail.com",
+            "patientIssue": "Poor diet",
+            "slotId": "102",
+            "appointmentDate": "12/04/2022",
+            "appointmentStartTime": "10:00 AM",
+            "appointmentEndTime": "11:30 AM",
+            "appointmentStatus": "true"
+        },
+        {
+            "appointmentId": 4,
+            "patientEmail": "samavati@sbcglobal.net",
+            "doctorEmail": "Gupta.Amit@gmail.com",
+            "patientIssue": "High BP or Cholesterol",
+            "slotId": "104",
+            "appointmentDate": "13/04/2022",
+            "appointmentStartTime": "03:00 PM",
+            "appointmentEndTime": "04:00 PM",
+            "appointmentStatus": "true"
+        }
+    ]
+}

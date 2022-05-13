@@ -1,0 +1,25 @@
+.main {
+  text-align: center;
+  justify-content: center;
+  background-color: white;
+}
+
+.divBox {
+  margin-top: 15%;
+}
+
+input[type=time],
+input[type=date] {
+  padding: 7px;
+  margin: 8px 3px;
+  box-sizing: border-box;
+
+}
+
+.padingStartT {
+  margin-right: 10px;
+}
+
+.padingEndT {
+  margin-left: 10px;
+}
